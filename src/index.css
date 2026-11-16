@@ -1,0 +1,108 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+    --font-ar-ruqaa: 'Aref Ruqaa', 'Amiri', serif;
+    --font-ar-amiri: 'Amiri', 'Noto Naskh Arabic', serif;
+    --font-ar-cairo: 'Noto Sans Arabic', 'Noto Naskh Arabic', sans-serif;
+    --font-ar-naskh: 'Noto Naskh Arabic', 'Amiri', serif;
+    --font-ar-tajawal: 'Noto Sans Arabic', 'Tajawal', sans-serif;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: #FAF7F0;
+    color: #0B1D3A;
+  }
+}
+
+.font-ar-ruqaa {
+  font-family: var(--font-ar-ruqaa);
+  line-height: 1.75;
+}
+
+.font-ar-amiri {
+  font-family: var(--font-ar-amiri);
+  line-height: 2;
+}
+
+.font-ar-cairo {
+  font-family: var(--font-ar-cairo);
+  line-height: 2.1;
+}
+
+.font-ar-naskh {
+  font-family: var(--font-ar-naskh);
+  line-height: 2.1;
+}
+
+.font-ar-tajawal {
+  font-family: var(--font-ar-tajawal);
+  line-height: 2;
+}
+
+/* Ensure Arabic diacritics never clip */
+[dir="rtl"] {
+  unicode-bidi: isolate;
+  font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
+}
+
+@keyframes floatSlow {
+  0%, 100% { transform: translateY(0px) translateX(0px); }
+  50% { transform: translateY(-8px) translateX(4px); }
+}
+
+@keyframes driftCloud {
+  0% { transform: translateX(-18px); }
+  50% { transform: translateX(18px); }
+  100% { transform: translateX(-18px); }
+}
+
+@keyframes twinkleStar {
+  0%, 100% { opacity: 0.35; transform: scale(0.85) rotate(0deg); }
+  50% { opacity: 1; transform: scale(1.15) rotate(12deg); }
+}
+
+@keyframes pencilWrite {
+  0%, 100% { transform: translate(0px, 0px) rotate(-6deg); }
+  25% { transform: translate(-5px, 3px) rotate(2deg); }
+  50% { transform: translate(-10px, 0px) rotate(-4deg); }
+  75% { transform: translate(-4px, 3px) rotate(3deg); }
+}
+
+@keyframes bookBreath {
+  0%, 100% { transform: translateY(0px) scale(1); }
+  50% { transform: translateY(-5px) scale(1.015); }
+}
+
+.animate-float-slow {
+  animation: floatSlow 6s ease-in-out infinite;
+}
+
+.animate-drift-cloud {
+  animation: driftCloud 14s ease-in-out infinite;
+}
+
+.animate-twinkle {
+  animation: twinkleStar 3.4s ease-in-out infinite;
+}
+
+.animate-pencil-write {
+  animation: pencilWrite 2.4s ease-in-out infinite;
+}
+
+.animate-book-breath {
+  animation: bookBreath 5s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-float-slow,
+  .animate-drift-cloud,
+  .animate-twinkle,
+  .animate-pencil-write,
+  .animate-book-breath {
+    animation: none !important;
+  }
+}

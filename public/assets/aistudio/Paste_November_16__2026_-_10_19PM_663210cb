@@ -1,0 +1,1177 @@
+Buat sebuah WEBSITE E-LKPD (Lembar Kerja Peserta Didik Elektronik) Bahasa Arab yang sangat interaktif, inovatif, modern, menarik, profesional, dan memiliki kualitas desain seperti aplikasi edukasi premium.
+
+Website ini ditujukan untuk siswa kelas VII Madrasah Tsanawiyah pada kategori kemampuan HIGH (kemampuan tinggi).
+
+Website merupakan media pembelajaran digital berbasis diferensiasi yang memberikan tantangan lebih tinggi daripada fase LOW dan MIDDLE.
+
+NAMA WEBSITE:
+
+هَيَّا نَتَعَلَّمُ!
+
+الْكِتَابُ الإِضَافِيُّ الإِلِكْتُرُونِيُّ
+
+لِتَعْلِيمِ اللُّغَةِ الْعَرَبِيَّةِ
+
+لِلصَّفِّ السَّابِعِ بِالْمَدْرَسَةِ الْمُتَوَسِّطَةِ
+
+Buat website sebagai digital interactive Arabic workbook yang benar-benar berfungsi. Jangan hanya membuat mockup atau tampilan statis.
+
+==================================================
+A. KONSEP DESAIN DAN VISUAL WEBSITE
+==================================================
+
+Gunakan konsep:
+
+"ARABIC EXPLORER – ADVANCED LEARNING LEVEL"
+
+Desain fase HIGH harus memiliki identitas visual tersendiri, berbeda dari LOW dan MIDDLE, tetapi tetap mempertahankan identitas utama website هَيَّا نَتَعَلَّمُ!
+
+KONSEP DESAIN:
+- Modern educational website.
+- Interactive Arabic learning application.
+- Premium digital workbook.
+- Creative learning adventure.
+- Gamification learning.
+
+PALET WARNA:
+
+Gunakan perpaduan warna:
+- Deep navy blue.
+- Teal.
+- Emerald green.
+- Soft gold.
+- Warm cream.
+- Muted turquoise.
+- Light beige.
+
+Buat tampilan lebih elegan, dinamis, dan sedikit lebih dewasa daripada fase LOW dan MIDDLE.
+
+Jangan menggunakan warna terlalu ramai. Pastikan tulisan Arab dan materi tetap menjadi fokus utama.
+
+ANIMASI WAJIB:
+
+Tambahkan animasi bergerak yang menarik:
+1. Buku terbuka yang bergerak perlahan.
+2. Pensil yang bergerak seperti sedang menulis.
+3. Awan yang bergerak perlahan di background.
+4. Bintang yang berkilauan.
+5. Kertas dan lembaran buku yang bergerak.
+6. Karakter siswa laki-laki dan perempuan yang sedang membaca buku bahasa Arab.
+7. Karakter siswa yang sedang berdiskusi.
+8. Karakter siswa yang sedang berbicara dengan AI.
+9. Animasi koin berjatuhan ketika siswa menjawab benar.
+10. Animasi progress pembelajaran.
+11. Animasi piala dan medali ketika menyelesaikan dars.
+12. Efek transisi antarhalaman yang halus.
+
+Gunakan CSS animation, SVG, Lottie, atau Framer Motion.
+
+Jangan membuat animasi terlalu ramai sehingga mengganggu konsentrasi siswa.
+
+Gunakan ilustrasi kartun berkualitas tinggi dan konsisten di seluruh halaman.
+
+==================================================
+B. HALAMAN COVER / LANDING PAGE
+==================================================
+
+Buat halaman cover yang sangat menarik dan profesional.
+
+Background:
+- Gradasi deep navy, teal, dan emerald.
+- Dekorasi awan bergerak.
+- Bintang berkilauan.
+- Buku terbuka.
+- Pensil dan alat tulis.
+- Ornamen geometris Islami modern.
+
+Tampilkan tulisan Arab berikut secara persis:
+
+هَيَّا نَتَعَلَّمُ!
+
+الْكِتَابُ الإِضَافِيُّ الإِلِكْتُرُونِيُّ
+
+لِتَعْلِيمِ اللُّغَةِ الْعَرَبِيَّةِ
+
+لِلصَّفِّ السَّابِعِ بِالْمَدْرَسَةِ الْمُتَوَسِّطَةِ
+
+KETENTUAN FONT:
+
+Gunakan jenis font berbeda untuk masing-masing bagian.
+
+1. هَيَّا نَتَعَلَّمُ!
+   Gunakan font Arab dekoratif, besar, tebal, dan menonjol.
+
+2. الْكِتَابُ الإِضَافِيُّ الإِلِكْتُرُونِيُّ
+   Gunakan font Arab elegan dan profesional.
+
+3. لِتَعْلِيمِ اللُّغَةِ الْعَرَبِيَّةِ
+   Gunakan font Arab modern dan artistik.
+
+4. لِلصَّفِّ السَّابِعِ بِالْمَدْرَسَةِ الْمُتَوَسِّطَةِ
+   Gunakan font sederhana, jelas, dan mudah dibaca.
+
+Rekomendasi font:
+- Aref Ruqaa.
+- Amiri.
+- Cairo.
+- Tajawal.
+- Noto Naskh Arabic.
+
+Pastikan harakat lengkap, tidak ada huruf Arab yang terpotong, arah tulisan RTL, dan susunan huruf benar.
+
+ILUSTRASI COVER:
+
+Buat gambar animasi kartun dua siswa MTs:
+- Siswa laki-laki sedang membaca buku bahasa Arab.
+- Siswa perempuan sedang menulis kosakata Arab.
+- Keduanya terlihat cerdas, ceria, dan bersemangat.
+- Ada buku terbuka bertuliskan اللغة العربية.
+- Ada pensil, awan, bintang, penggaris, dan alat tulis.
+- Karakter terlihat lucu dan ramah.
+
+Tambahkan tombol besar:
+
+اِبْدَأِ التَّعَلُّمَ
+
+Saat diklik, masuk ke dashboard utama.
+
+==================================================
+C. DASHBOARD UTAMA
+==================================================
+
+Buat dashboard modern dengan navigasi yang mudah digunakan.
+
+Bagian header:
+- Logo buku bahasa Arab.
+- Sapaan مَرْحَبًا بِكَ يَا بَطَلَ اللُّغَةِ الْعَرَبِيَّةِ!
+- Judul هَيَّا نَتَعَلَّمُ اللُّغَةَ الْعَرَبِيَّةَ.
+- Total koin.
+- Progress pembelajaran.
+- Tombol beranda.
+- Pengaturan suara.
+- Bantuan.
+
+Buat tiga kartu dars:
+
+DARS 1:
+التَّعَارُفُ
+
+DARS 2:
+الأَدَوَاتُ الْمَدْرَسِيَّةُ
+
+DARS 3:
+يَوْمِيَّاتُنَا
+
+Setiap kartu harus mempunyai:
+- Ilustrasi sesuai tema.
+- Nomor dars.
+- Deskripsi singkat.
+- Persentase progres.
+- Status penyelesaian.
+- Tombol اِبْدَأِ الدَّرْسَ.
+
+==================================================
+D. STRUKTUR PEMBELAJARAN
+==================================================
+
+Setiap dars wajib memiliki:
+
+1. Tujuan pembelajaran.
+2. Materi singkat.
+3. Maharah Istima' (الاسْتِمَاعُ).
+4. Maharah Kalam (الْكَلَامُ).
+5. Maharah Qira'ah (الْقِرَاءَةُ).
+6. Maharah Kitabah (الْكِتَابَةُ).
+7. Evaluasi dan pengumpulan koin.
+8. Mahfuzhat atau motivasi belajar.
+
+KARAKTERISTIK LEVEL HIGH:
+
+- Siswa mampu memahami teks dan percakapan yang lebih panjang.
+- Siswa mampu mengidentifikasi informasi rinci.
+- Siswa mampu menyimpulkan isi audio dan bacaan.
+- Siswa mampu mengembangkan jawaban menggunakan kalimat sendiri.
+- Siswa mampu mengungkapkan pendapat sederhana.
+- Siswa mampu menyusun dialog secara mandiri.
+- Siswa mampu menulis paragraf dan cerita sederhana.
+- Kurangi scaffolding dan bantuan langsung.
+- Berikan tantangan yang membutuhkan penalaran dan kreativitas.
+
+Jangan sekadar mengganti jumlah soal dari LOW atau MIDDLE. Tingkatkan kompleksitas materi, proses berpikir, dan bentuk aktivitas.
+
+==================================================
+E. DARS 1: التَّعَارُفُ
+==================================================
+
+TEMA: PERKENALAN DAN IDENTITAS DIRI
+
+MATERI SINGKAT:
+
+Berikan materi tentang:
+1. Ungkapan salam dan perkenalan.
+2. Identitas diri.
+3. Asal daerah dan tempat tinggal.
+4. Kelas dan sekolah.
+5. Hobi dan kesukaan.
+6. Kata ganti (isim dhamir).
+7. Isim isyarah هَذَا dan هَذِهِ.
+8. Menyusun kalimat perkenalan yang lebih lengkap.
+
+MUFRODAT:
+
+- التَّعَارُفُ
+- الِاسْمُ
+- الْعُنْوَانُ
+- الْمَدْرَسَةُ
+- الْفَصْلُ
+- الْهَوَايَةُ
+- الْأُسْرَةُ
+- الْمَدِينَةُ
+- الطَّالِبُ
+- الْمُجْتَهِدُ
+- الصَّدِيقُ
+- الْمُوَاطَنَةُ
+
+UNGKAPAN:
+
+مَا اسْمُكَ؟
+مِنْ أَيْنَ أَنْتَ؟
+أَيْنَ تَسْكُنُ؟
+فِي أَيِّ صَفٍّ تَدْرُسُ؟
+مَا هِوَايَتُكَ؟
+مَاذَا تُحِبُّ؟
+لِمَاذَا تُحِبُّ اللُّغَةَ الْعَرَبِيَّةَ؟
+
+Tampilkan materi dalam bentuk kartu digital dengan ilustrasi, audio, dan contoh penggunaan dalam kalimat.
+
+1. MAHARAH ISTIMA' (الاسْتِمَاعُ)
+
+Buat materi menyimak berupa cerita atau percakapan yang lebih kompleks daripada fase LOW dan MIDDLE.
+
+Judul:
+قِصَّةُ طَالِبٍ مُجْتَهِدٍ
+
+Tampilkan ilustrasi seorang siswa yang sedang memperkenalkan dirinya di depan kelas.
+
+AUDIO:
+
+اِسْمِي مُحَمَّدٌ. أَنَا طَالِبٌ فِي الصَّفِّ السَّابِعِ بِالْمَدْرَسَةِ الْمُتَوَسِّطَةِ. أَسْكُنُ فِي سُورَابَايَا مَعَ أُسْرَتِي. أُحِبُّ اللُّغَةَ الْعَرَبِيَّةَ لِأَنَّهَا لُغَةُ الْقُرْآنِ الْكَرِيمِ. أَتَعَلَّمُ الْمُفْرَدَاتِ الْعَرَبِيَّةَ كُلَّ يَوْمٍ، وَأُحَاوِلُ أَنْ أَتَكَلَّمَ بِاللُّغَةِ الْعَرَبِيَّةِ مَعَ أَصْدِقَائِي. هِوَايَتِي قِرَاءَةُ الْكُتُبِ وَكِتَابَةُ الْقِصَصِ الْقَصِيرَةِ. أَتَمَنَّى أَنْ أَكُونَ مُعَلِّمًا لِلُّغَةِ الْعَرَبِيَّةِ فِي الْمُسْتَقْبَلِ.
+
+Buat audio dengan pelafalan bahasa Arab yang jelas, tempo sedang, dan intonasi alami.
+
+Tampilkan:
+- Play.
+- Pause.
+- Replay.
+- Pengaturan volume.
+- Indikator audio sedang berjalan.
+- Ilustrasi pendukung cerita.
+
+LATIHAN ISTIMA':
+
+Buat 8 soal pilihan ganda berdasarkan audio.
+
+Soal harus menguji:
+- Informasi identitas.
+- Informasi tempat tinggal.
+- Alasan menyukai bahasa Arab.
+- Kebiasaan belajar.
+- Aktivitas bersama teman.
+- Hobi.
+- Cita-cita.
+- Kesimpulan isi cerita.
+
+Gunakan empat pilihan jawaban dalam bahasa Arab.
+
+Contoh:
+
+لِمَاذَا يُحِبُّ مُحَمَّدٌ اللُّغَةَ الْعَرَبِيَّةَ؟
+
+أ. لِأَنَّهَا لُغَةُ الْقُرْآنِ الْكَرِيمِ.
+ب. لِأَنَّهَا لُغَةٌ صَعْبَةٌ.
+ج. لِأَنَّهَا لُغَةُ الْأَصْدِقَاءِ.
+د. لِأَنَّهَا لُغَةُ الْحِسَابِ.
+
+Jangan menampilkan transkrip audio sebelum siswa menyelesaikan soal.
+
+Sediakan fitur mendengarkan ulang.
+
+2. MAHARAH KALAM (الْكَلَامُ)
+
+Materi:
+
+Tampilkan hiwar yang lebih kompleks dengan tema perkenalan.
+
+Judul:
+التَّعَارُفُ وَتَبَادُلُ الْمَعْلُومَاتِ
+
+Contoh:
+
+أَحْمَدُ: السَّلَامُ عَلَيْكُمْ، كَيْفَ حَالُكَ؟
+عَلِيٌّ: وَعَلَيْكُمُ السَّلَامُ، أَنَا بِخَيْرٍ، وَالْحَمْدُ لِلَّهِ.
+أَحْمَدُ: مَا اسْمُكَ وَمِنْ أَيْنَ أَنْتَ؟
+عَلِيٌّ: اِسْمِي عَلِيٌّ، وَأَنَا مِنْ سُورَابَايَا.
+أَحْمَدُ: مَا هِوَايَتُكَ؟
+عَلِيٌّ: هِوَايَتِي قِرَاءَةُ الْكُتُبِ وَكِتَابَةُ الْقِصَصِ.
+أَحْمَدُ: لِمَاذَا تُحِبُّ اللُّغَةَ الْعَرَبِيَّةَ؟
+عَلِيٌّ: أُحِبُّهَا لِأَنَّهَا تُسَاعِدُنِي عَلَى فَهْمِ الْقُرْآنِ الْكَرِيمِ.
+أَحْمَدُ: مَا أُمْنِيَتُكَ فِي الْمُسْتَقْبَلِ؟
+عَلِيٌّ: أَتَمَنَّى أَنْ أَكُونَ مُعَلِّمًا لِلُّغَةِ الْعَرَبِيَّةِ.
+
+Tampilkan dengan bubble percakapan dan karakter siswa.
+
+LATIHAN KALAM:
+
+Buat fitur AI Arabic Speaking Partner yang benar-benar interaktif.
+
+Gunakan Gemini API untuk memahami ucapan dan konteks jawaban siswa.
+
+Sediakan tiga jenis latihan:
+
+LATIHAN 1: AI INTERVIEW
+
+AI bertindak sebagai pewawancara dan siswa sebagai narasumber.
+
+AI bertanya:
+- مَا اسْمُكَ؟
+- مِنْ أَيْنَ أَنْتَ؟
+- أَيْنَ تَسْكُنُ؟
+- مَا هِوَايَتُكَ؟
+- لِمَاذَا تُحِبُّ اللُّغَةَ الْعَرَبِيَّةَ؟
+- مَا أُمْنِيَتُكَ فِي الْمُسْتَقْبَلِ؟
+
+Siswa menjawab menggunakan kalimat lengkap.
+
+LATIHAN 2: OPEN CONVERSATION
+
+AI mengajak siswa berdiskusi sederhana tentang pentingnya belajar bahasa Arab.
+
+Contoh pertanyaan:
+لِمَاذَا نَتَعَلَّمُ اللُّغَةَ الْعَرَبِيَّةَ؟
+
+Siswa harus mengembangkan jawaban sendiri.
+
+LATIHAN 3: STORYTELLING
+
+Tampilkan ilustrasi seorang siswa di sekolah.
+
+Minta siswa menceritakan gambar tersebut dalam bahasa Arab sebanyak 4–5 kalimat.
+
+AI mengevaluasi cerita yang disampaikan.
+
+FITUR AI:
+
+- Mengenali suara siswa.
+- Mengubah suara menjadi teks.
+- Memahami jawaban.
+- Memberikan respons dinamis.
+- Mengajukan pertanyaan lanjutan.
+- Memberikan koreksi tata bahasa.
+- Memberikan contoh jawaban yang lebih baik.
+- Mengevaluasi kelengkapan kalimat.
+- Memberikan feedback pelafalan jika teknologi mendukung.
+- Memberikan pujian dan motivasi.
+
+Gunakan Web Speech API untuk speech recognition dan text-to-speech jika tersedia.
+
+Jika mikrofon tidak tersedia, sediakan input teks.
+
+Jangan membuat fitur AI yang hanya berupa percakapan statis. AI harus memproses jawaban siswa secara kontekstual.
+
+3. MAHARAH QIRA'AH (الْقِرَاءَةُ)
+
+Berikan teks yang lebih panjang dan kompleks daripada fase MIDDLE.
+
+Gunakan teks hiwar yang terdiri atas dua tokoh dengan informasi yang saling melengkapi.
+
+Judul:
+حِوَارٌ عَنِ التَّعَارُفِ وَالْهَوَايَاتِ
+
+TEKS:
+
+أَحْمَدُ: السَّلَامُ عَلَيْكُمْ، مَا اسْمُكَ؟
+مُحَمَّدٌ: وَعَلَيْكُمُ السَّلَامُ، اِسْمِي مُحَمَّدٌ. وَمَا اسْمُكَ؟
+أَحْمَدُ: اِسْمِي أَحْمَدُ. مِنْ أَيْنَ أَنْتَ؟
+مُحَمَّدٌ: أَنَا مِنْ سُورَابَايَا، وَأَسْكُنُ مَعَ أُسْرَتِي فِي وَنُوكْرُومُو. وَأَنْتَ؟
+أَحْمَدُ: أَنَا مِنْ سِيدُوَارْجُو. أَدْرُسُ فِي الْمَدْرَسَةِ الْمُتَوَسِّطَةِ فِي الصَّفِّ السَّابِعِ.
+مُحَمَّدٌ: مَا هِوَايَتُكَ يَا أَحْمَدُ؟
+أَحْمَدُ: هِوَايَتِي لَعِبُ كُرَةِ الْقَدَمِ وَقِرَاءَةُ الْكُتُبِ. وَمَاذَا عَنْكَ؟
+مُحَمَّدٌ: أُحِبُّ كِتَابَةَ الْقِصَصِ الْقَصِيرَةِ وَتَعَلُّمَ اللُّغَاتِ الْأَجْنَبِيَّةِ.
+أَحْمَدُ: لِمَاذَا تُحِبُّ اللُّغَةَ الْعَرَبِيَّةَ؟
+مُحَمَّدٌ: أُحِبُّهَا لِأَنَّهَا لُغَةُ الْقُرْآنِ الْكَرِيمِ، وَتُسَاعِدُنِي عَلَى فَهْمِ مَعَانِي الْآيَاتِ. كَمَا أَنَّهَا لُغَةٌ جَمِيلَةٌ وَمُهِمَّةٌ.
+أَحْمَدُ: مَا أُمْنِيَتُكَ بَعْدَ التَّخَرُّجِ؟
+مُحَمَّدٌ: أَتَمَنَّى أَنْ أَكُونَ مُعَلِّمًا لِلُّغَةِ الْعَرَبِيَّةِ، وَأَنْ أُسَاعِدَ الْآخَرِينَ عَلَى تَعَلُّمِهَا.
+أَحْمَدُ: أَمْنِيَةٌ جَمِيلَةٌ، أَتَمَنَّى لَكَ النَّجَاحَ.
+مُحَمَّدٌ: شُكْرًا جَزِيلًا، وَأَتَمَنَّى لَكَ النَّجَاحَ أَيْضًا.
+
+Tampilkan teks dalam desain seperti halaman buku digital.
+
+Gunakan:
+- Font Arab yang nyaman.
+- Harakat lengkap.
+- Perbedaan warna untuk setiap tokoh.
+- Bubble dialog.
+- Audio membaca hiwar.
+- Ilustrasi dua siswa sedang berdiskusi.
+
+LATIHAN QIRA'AH:
+
+Instruksi:
+
+اِقْرَأِ الْحِوَارَ بِعِنَايَةٍ، ثُمَّ أَجِبْ عَنِ الْأَسْئِلَةِ!
+
+Buat 8 pertanyaan pilihan ganda berdasarkan hiwar.
+
+Pertanyaan harus mencakup:
+- Identitas masing-masing tokoh.
+- Asal daerah.
+- Tempat tinggal.
+- Hobi.
+- Alasan menyukai bahasa Arab.
+- Cita-cita.
+- Informasi khusus dalam percakapan.
+- Kesimpulan isi dialog.
+
+Tambahkan dua soal yang meminta siswa menyimpulkan informasi dari percakapan, bukan sekadar menyalin informasi secara langsung.
+
+Gunakan empat opsi jawaban dalam bahasa Arab.
+
+4. MAHARAH KITABAH (الْكِتَابَةُ)
+
+Buat latihan menulis dengan tingkat kompleksitas tertinggi dibandingkan fase LOW dan MIDDLE.
+
+Fokus:
+- Menyusun kalimat kompleks sederhana.
+- Mengembangkan paragraf.
+- Menulis cerita berdasarkan ilustrasi.
+- Mengungkapkan pendapat sederhana dalam bahasa Arab.
+
+LATIHAN 1: MENYUSUN KALIMAT
+
+Berikan kosakata yang diacak agar siswa menyusun menjadi kalimat benar.
+
+Contoh:
+
+الْعَرَبِيَّةَ – أُحِبُّ – لِأَنَّهَا – لُغَةُ – الْقُرْآنِ
+
+Sediakan fitur drag-and-drop atau pemilihan urutan kata.
+
+LATIHAN 2: MENGEMBANGKAN KALIMAT
+
+Berikan satu kalimat dasar dan minta siswa mengembangkannya menjadi kalimat yang lebih lengkap.
+
+Contoh:
+
+أُحِبُّ اللُّغَةَ الْعَرَبِيَّةَ.
+
+Kembangkan menjadi tiga kalimat yang saling berhubungan.
+
+LATIHAN 3: MENULIS PARAGRAF
+
+Instruksi:
+
+اُكْتُبْ فِقْرَةً عَنْ نَفْسِكَ وَهَوَايَاتِكَ وَأُمْنِيَّاتِكَ فِي الْمُسْتَقْبَلِ!
+
+Tulislah paragraf tentang dirimu, hobimu, dan cita-citamu di masa depan sebanyak 6–8 kalimat.
+
+Ketentuan:
+- Gunakan minimal 8 kosakata dari materi.
+- Gunakan kata penghubung وَ، ثُمَّ، لِأَنَّ.
+- Gunakan minimal satu kalimat yang menjelaskan alasan.
+- Gunakan susunan kalimat yang saling berhubungan.
+- Tulisan harus sesuai tema.
+
+LATIHAN 4: STORY WRITING
+
+Tampilkan gambar ilustrasi dua siswa yang sedang berkenalan di sekolah.
+
+Minta siswa membuat cerita bahasa Arab sebanyak 6–8 kalimat berdasarkan gambar.
+
+Instruksi:
+
+اُكْتُبْ قِصَّةً قَصِيرَةً عَنِ الصُّورَةِ!
+
+Sediakan editor teks Arab yang nyaman.
+
+Tambahkan:
+- Penghitung jumlah kata.
+- Panduan kosakata yang dapat dibuka.
+- Tombol simpan.
+- Tombol periksa tulisan.
+- Tombol hapus dan ulangi.
+
+EVALUASI KITABAH:
+
+Evaluasi berdasarkan rubrik:
+1. Ketepatan kosakata.
+2. Struktur kalimat.
+3. Penggunaan kata penghubung.
+4. Kesesuaian isi.
+5. Kelengkapan paragraf.
+6. Kreativitas pengembangan ide.
+
+Jangan hanya memeriksa kesamaan jawaban dengan satu teks kunci.
+
+Gunakan evaluasi AI dengan Gemini API untuk jawaban terbuka dan berikan feedback yang mendidik.
+
+MAHFUZHAT DARS 1:
+
+مَنْ جَدَّ وَجَدَ
+
+Barang siapa bersungguh-sungguh, maka ia akan berhasil.
+
+Tampilkan dengan animasi buku terbuka, medali, dan bintang.
+
+==================================================
+F. DARS 2: الأَدَوَاتُ الْمَدْرَسِيَّةُ
+==================================================
+
+TEMA: PERALATAN SEKOLAH
+
+MATERI SINGKAT:
+
+Berikan materi yang lebih mendalam tentang:
+1. Kosakata perlengkapan sekolah.
+2. Isim isyarah هَذَا dan هَذِهِ.
+3. Sifat warna.
+4. Kata sifat dan benda.
+5. Kalimat deskriptif.
+6. Jumlah benda.
+7. Fungsi perlengkapan sekolah.
+8. Ungkapan meminta dan memberikan informasi.
+
+MUFRODAT:
+
+- حَقِيبَةٌ
+- كِتَابٌ
+- دَفْتَرٌ
+- قَلَمٌ
+- مِسْطَرَةٌ
+- مِمْحَاةٌ
+- مِبْرَاةٌ
+- سَبُّورَةٌ
+- مَكْتَبٌ
+- كُرْسِيٌّ
+- أَدَوَاتٌ
+- مُسْتَلْزَمَاتٌ
+- أَدَوَاتٌ مَدْرَسِيَّةٌ
+
+SIFAT WARNA:
+
+أَحْمَرُ، أَزْرَقُ، أَخْضَرُ، أَصْفَرُ، أَبْيَضُ، أَسْوَدُ.
+
+CONTOH:
+
+هَذِهِ حَقِيبَةٌ زَرْقَاءُ.
+
+هَذَا كِتَابٌ جَدِيدٌ.
+
+فِي حَقِيبَتِي كُتُبٌ وَدَفَاتِرُ وَأَقْلَامٌ.
+
+1. MAHARAH ISTIMA'
+
+Judul:
+وَصْفُ حَقِيبَةِ الطَّالِبِ
+
+Tampilkan ilustrasi tas sekolah terbuka dengan berbagai perlengkapan.
+
+Audio:
+
+اِسْمِي عُمَرُ، وَأَنَا طَالِبٌ فِي الصَّفِّ السَّابِعِ. أُحِبُّ أَنْ أُرَتِّبَ أَدَوَاتِي الْمَدْرَسِيَّةَ قَبْلَ الذَّهَابِ إِلَى الْمَدْرَسَةِ. حَقِيبَتِي كَبِيرَةٌ وَلَوْنُهَا أَزْرَقُ. أَضَعُ فِيهَا ثَلَاثَةَ كُتُبٍ وَأَرْبَعَةَ دَفَاتِرَ وَقَلَمَيْنِ وَمِسْطَرَةً طَوِيلَةً. أَسْتَعْمِلُ الْكِتَابَ لِلْقِرَاءَةِ، وَالدَّفْتَرَ لِكِتَابَةِ الدُّرُوسِ، وَالْمِسْطَرَةَ لِرَسْمِ الْخُطُوطِ. أُحَافِظُ عَلَى أَدَوَاتِي لِأَنَّهَا تُسَاعِدُنِي عَلَى التَّعَلُّمِ بِجِدٍّ.
+
+Putar audio dengan tempo sedang.
+
+Buat 8 soal pilihan ganda berdasarkan audio.
+
+Soal harus menguji:
+- Detail isi tas.
+- Jumlah perlengkapan.
+- Warna tas.
+- Fungsi benda.
+- Kebiasaan tokoh.
+- Tujuan tokoh menjaga perlengkapan.
+- Hubungan informasi.
+- Kesimpulan cerita.
+
+Jangan tampilkan transkrip sebelum siswa mengerjakan.
+
+2. MAHARAH KALAM
+
+Materi:
+
+Judul:
+حِوَارٌ عَنِ الْأَدَوَاتِ الْمَدْرَسِيَّةِ
+
+Tampilkan hiwar:
+
+الْمُعَلِّمُ: مَاذَا تُوجَدُ فِي حَقِيبَتِكَ؟
+الطَّالِبُ: فِي حَقِيبَتِي كُتُبٌ وَدَفَاتِرُ وَأَقْلَامٌ.
+الْمُعَلِّمُ: مَا لَوْنُ حَقِيبَتِكَ؟
+الطَّالِبُ: لَوْنُهَا أَزْرَقُ، وَهِيَ كَبِيرَةٌ.
+الْمُعَلِّمُ: مَا فَائِدَةُ الْمِسْطَرَةِ؟
+الطَّالِبُ: أَسْتَعْمِلُهَا لِرَسْمِ الْخُطُوطِ الْمُسْتَقِيمَةِ.
+الْمُعَلِّمُ: كَيْفَ تُحَافِظُ عَلَى أَدَوَاتِكَ؟
+الطَّالِبُ: أُرَتِّبُهَا بَعْدَ اسْتِعْمَالِهَا وَأَضَعُهَا فِي حَقِيبَتِي.
+
+LATIHAN KALAM AI:
+
+Buat tiga bentuk tantangan.
+
+TANTANGAN 1: DESCRIBE AN OBJECT
+
+Tampilkan gambar satu benda sekolah.
+
+Minta siswa mendeskripsikan:
+- Nama benda.
+- Warna.
+- Bentuk atau ukuran.
+- Fungsi.
+
+TANTANGAN 2: ROLE PLAY
+
+AI menjadi guru yang bertanya tentang perlengkapan sekolah.
+
+Siswa harus menjawab dengan kalimat lengkap dan menjelaskan fungsi benda.
+
+TANTANGAN 3: GIVE YOUR OPINION
+
+AI bertanya:
+
+لِمَاذَا يَجِبُ عَلَيْنَا الْمُحَافَظَةُ عَلَى أَدَوَاتِنَا الْمَدْرَسِيَّةِ؟
+
+Siswa diminta memberikan pendapat sederhana dengan alasan.
+
+AI harus merespons secara kontekstual dan mengevaluasi jawaban.
+
+3. MAHARAH QIRA'AH
+
+Judul:
+أَدَوَاتِي وَبِيئَتِي الْمَدْرَسِيَّةُ
+
+Tampilkan bacaan yang lebih panjang dengan beberapa paragraf.
+
+TEKS:
+
+أَنَا يُوسُفُ، طَالِبٌ فِي الصَّفِّ السَّابِعِ. أَهْتَمُّ دَائِمًا بِأَدَوَاتِي الْمَدْرَسِيَّةِ، لِأَنَّهَا تُسَاعِدُنِي عَلَى التَّعَلُّمِ بِشَكْلٍ جَيِّدٍ. أَحْمِلُ حَقِيبَةً كَبِيرَةً لَوْنُهَا أَسْوَدُ، وَأَضَعُ فِيهَا كُتُبِي وَدَفَاتِرِي وَأَقْلَامِي.
+
+فِي الْفَصْلِ، أَسْتَعْمِلُ الْكِتَابَ لِقِرَاءَةِ الدُّرُوسِ، وَالدَّفْتَرَ لِكِتَابَةِ الْمُلَاحَظَاتِ، وَالْمِسْطَرَةَ لِرَسْمِ الْخُطُوطِ. أَحْرِصُ عَلَى تَرْتِيبِ مَكْتَبِي وَكُرْسِيِّي بَعْدَ اسْتِعْمَالِهِمَا. كَمَا أُسَاعِدُ أَصْدِقَائِي إِذَا احْتَاجُوا إِلَى بَعْضِ الْأَدَوَاتِ.
+
+أَعْتَقِدُ أَنَّ الْمُحَافَظَةَ عَلَى الْأَدَوَاتِ الْمَدْرَسِيَّةِ وَنَظَافَةِ الْفَصْلِ مَسْؤُولِيَّةُ جَمِيعِ الطُّلَّابِ. فَالْفَصْلُ النَّظِيفُ وَالْمُرَتَّبُ يُسَاعِدُنَا عَلَى الدِّرَاسَةِ بِرَاحَةٍ وَنَشَاطٍ.
+
+Tampilkan teks seperti halaman buku digital dengan ilustrasi kelas.
+
+LATIHAN QIRA'AH:
+
+Instruksi:
+
+اِقْرَأِ النَّصَّ جَيِّدًا، ثُمَّ أَجِبْ عَنِ الْأَسْئِلَةِ!
+
+Buat 8 pertanyaan pilihan ganda.
+
+Pertanyaan mencakup:
+- Identitas tokoh.
+- Warna tas.
+- Fungsi alat sekolah.
+- Kebiasaan di kelas.
+- Sikap terhadap teman.
+- Pendapat tokoh.
+- Tanggung jawab siswa.
+- Kesimpulan isi bacaan.
+
+Tambahkan pertanyaan yang meminta siswa memahami hubungan sebab-akibat dan menyimpulkan isi paragraf.
+
+4. MAHARAH KITABAH
+
+Buat latihan menulis yang lebih kompleks.
+
+LATIHAN 1:
+Susun kosakata menjadi kalimat deskriptif yang benar.
+
+LATIHAN 2:
+Deskripsikan sebuah gambar perlengkapan sekolah menggunakan minimal empat kalimat bahasa Arab.
+
+LATIHAN 3:
+Tulislah paragraf tentang perlengkapan sekolah dan cara menjaganya sebanyak 6–8 kalimat.
+
+Instruksi:
+
+اُكْتُبْ فِقْرَةً عَنْ أَدَوَاتِكَ الْمَدْرَسِيَّةِ وَكَيْفِيَّةِ الْمُحَافَظَةِ عَلَيْهَا!
+
+Syarat:
+- Menyebutkan minimal lima benda.
+- Menjelaskan fungsi minimal dua benda.
+- Menggunakan sifat warna atau ukuran.
+- Menyampaikan alasan pentingnya menjaga perlengkapan.
+
+Berikan evaluasi berdasarkan rubrik bahasa dan isi.
+
+MAHFUZHAT DARS 2:
+
+الْعِلْمُ نُورٌ
+
+Ilmu adalah cahaya.
+
+==================================================
+G. DARS 3: يَوْمِيَّاتُنَا
+==================================================
+
+TEMA: AKTIVITAS SEHARI-HARI
+
+MATERI SINGKAT:
+
+Berikan materi lebih mendalam tentang:
+1. Kegiatan sehari-hari.
+2. Urutan aktivitas.
+3. Keterangan waktu.
+4. Jam dan waktu.
+5. Kata penghubung.
+6. Mengungkapkan kebiasaan.
+7. Menceritakan pengalaman.
+8. Menjelaskan alasan dan pendapat sederhana.
+
+MUFRODAT:
+
+- أَسْتَيْقِظُ
+- أُصَلِّي
+- أَغْتَسِلُ
+- أَتَنَاوَلُ الْفَطُورَ
+- أَذْهَبُ إِلَى الْمَدْرَسَةِ
+- أَدْرُسُ
+- أُشَارِكُ
+- أُسَاعِدُ
+- أُرَاجِعُ
+- أَقْرَأُ
+- أَكْتُبُ
+- أَسْتَرِيحُ
+- أَنَامُ
+
+Tampilkan materi dalam bentuk timeline aktivitas harian.
+
+Tambahkan kata penghubung:
+وَ، ثُمَّ، بَعْدَ ذَلِكَ، لِأَنَّ، قَبْلَ.
+
+1. MAHARAH ISTIMA'
+
+Judul:
+يَوْمٌ مِنْ حَيَاةِ طَالِبٍ مُجْتَهِدٍ
+
+Tampilkan gambar ilustrasi aktivitas siswa dari pagi sampai malam.
+
+AUDIO:
+
+اِسْمِي حَسَنٌ، وَأَنَا طَالِبٌ فِي الصَّفِّ السَّابِعِ. أَبْدَأُ يَوْمِي فِي السَّاعَةِ الْخَامِسَةِ صَبَاحًا. بَعْدَ الِاسْتِيقَاظِ أُصَلِّي الصُّبْحَ، ثُمَّ أُرَتِّبُ غُرْفَتِي وَأَسْتَعِدُّ لِلذَّهَابِ إِلَى الْمَدْرَسَةِ. أَتَنَاوَلُ الْفَطُورَ مَعَ أُسْرَتِي قَبْلَ الْخُرُوجِ.
+
+فِي الْمَدْرَسَةِ، أَتَعَلَّمُ مَوَادَّ مُخْتَلِفَةً وَأُشَارِكُ فِي الْأَنْشِطَةِ مَعَ أَصْدِقَائِي. أُحِبُّ دَرْسَ اللُّغَةِ الْعَرَبِيَّةِ لِأَنَّهُ يُسَاعِدُنِي عَلَى تَطْوِيرِ مَهَارَاتِي. بَعْدَ الرُّجُوعِ إِلَى الْبَيْتِ، أَسْتَرِيحُ قَلِيلًا، ثُمَّ أُسَاعِدُ وَالِدَيَّ وَأُرَاجِعُ دُرُوسِي. فِي اللَّيْلِ أَقْرَأُ كِتَابًا مُفِيدًا، وَأُعِدُّ جَدْوَلَ أَعْمَالِي لِلْيَوْمِ التَّالِي، ثُمَّ أَنَامُ فِي السَّاعَةِ التَّاسِعَةِ.
+
+Buat audio yang jelas dan tempo sedang.
+
+LATIHAN ISTIMA':
+
+Buat 8 soal pilihan ganda berdasarkan cerita.
+
+Tingkat kesulitan harus tinggi dengan menguji:
+- Informasi spesifik.
+- Urutan aktivitas.
+- Hubungan waktu.
+- Alasan tokoh menyukai pelajaran.
+- Aktivitas di sekolah.
+- Tanggung jawab di rumah.
+- Kebiasaan malam.
+- Kesimpulan karakter tokoh.
+
+Tambahkan dua soal inferensi yang mengharuskan siswa menarik kesimpulan dari informasi audio.
+
+2. MAHARAH KALAM
+
+Materi:
+
+Judul:
+مُحَادَثَةٌ عَنِ الْأَنْشِطَةِ الْيَوْمِيَّةِ
+
+Contoh hiwar:
+
+الْمُعَلِّمُ: كَيْفَ تُنَظِّمُ وَقْتَكَ كُلَّ يَوْمٍ؟
+الطَّالِبُ: أُنَظِّمُ وَقْتِي بِوَضْعِ جَدْوَلٍ لِلْأَنْشِطَةِ.
+الْمُعَلِّمُ: مَاذَا تَفْعَلُ بَعْدَ الْعَوْدَةِ مِنَ الْمَدْرَسَةِ؟
+الطَّالِبُ: أَسْتَرِيحُ قَلِيلًا، ثُمَّ أُرَاجِعُ دُرُوسِي.
+الْمُعَلِّمُ: لِمَاذَا تُنَظِّمُ وَقْتَكَ؟
+الطَّالِبُ: لِأَنَّ تَنْظِيمَ الْوَقْتِ يُسَاعِدُنِي عَلَى إِنْجَازِ أَعْمَالِي.
+
+LATIHAN KALAM AI:
+
+Buat tiga tantangan berbicara.
+
+TANTANGAN 1: INTERVIEW
+
+AI bertanya tentang kebiasaan dan jadwal harian siswa.
+
+Siswa harus menjawab dengan kalimat lengkap dan rinci.
+
+TANTANGAN 2: EXPLAIN YOUR ROUTINE
+
+Minta siswa menjelaskan kegiatan sehari-hari dari pagi sampai malam dalam bahasa Arab minimal 5–6 kalimat.
+
+TANTANGAN 3: GIVE YOUR OPINION
+
+AI bertanya:
+
+لِمَاذَا يَجِبُ عَلَيْنَا تَنْظِيمُ الْوَقْتِ؟
+
+Minta siswa menjawab dengan pendapat dan alasan sederhana.
+
+AI mengevaluasi:
+- Kelengkapan jawaban.
+- Ketepatan kosakata.
+- Struktur kalimat.
+- Kelancaran.
+- Kemampuan mengembangkan ide.
+
+AI harus memberikan respons yang sesuai dengan jawaban siswa, bukan hanya menampilkan jawaban yang sudah ditentukan.
+
+3. MAHARAH QIRA'AH
+
+Judul:
+يَوْمِيَّاتُ طَالِبٍ نَشِيطٍ
+
+Tampilkan bacaan panjang yang terdiri atas beberapa paragraf.
+
+TEKS:
+
+أَنَا عُمَرُ، طَالِبٌ فِي الصَّفِّ السَّابِعِ. أَحْرِصُ عَلَى تَنْظِيمِ وَقْتِي لِأَنَّنِي أُرِيدُ أَنْ أَكُونَ طَالِبًا نَشِيطًا وَمُجْتَهِدًا. أَسْتَيْقِظُ كُلَّ يَوْمٍ فِي السَّاعَةِ الْخَامِسَةِ صَبَاحًا، ثُمَّ أُصَلِّي وَأُرَتِّبُ غُرْفَتِي. بَعْدَ ذَلِكَ أَتَنَاوَلُ الْفَطُورَ وَأَسْتَعِدُّ لِلذَّهَابِ إِلَى الْمَدْرَسَةِ.
+
+فِي الْمَدْرَسَةِ، أُشَارِكُ فِي الدُّرُوسِ وَالْأَنْشِطَةِ. أُحِبُّ تَعَلُّمَ اللُّغَةِ الْعَرَبِيَّةِ لِأَنَّهَا تُسَاعِدُنِي عَلَى فَهْمِ الْمُفْرَدَاتِ وَقِرَاءَةِ النُّصُوصِ. أَحَاوِلُ أَنْ أَسْتَعْمِلَ الْكَلِمَاتِ الْعَرَبِيَّةَ فِي الْمُحَادَثَةِ مَعَ أَصْدِقَائِي.
+
+بَعْدَ الرُّجُوعِ مِنَ الْمَدْرَسَةِ، أَتَنَاوَلُ الْغَدَاءَ وَأَسْتَرِيحُ قَلِيلًا. ثُمَّ أُسَاعِدُ أُسْرَتِي فِي بَعْضِ الْأَعْمَالِ الْمَنْزِلِيَّةِ، وَبَعْدَ ذَلِكَ أُرَاجِعُ دُرُوسِي وَأُكْمِلُ وَاجِبَاتِي.
+
+فِي الْمَسَاءِ، أَقْرَأُ كِتَابًا أَوْ أَكْتُبُ مُلَاحَظَاتٍ عَنْ مَا تَعَلَّمْتُهُ. أُؤْمِنُ أَنَّ النَّجَاحَ لَا يَأْتِي بِالْأُمْنِيَاتِ فَقَطْ، بَلْ يَحْتَاجُ إِلَى الْجِدِّ وَالِانْضِبَاطِ وَحُسْنِ اسْتِغْلَالِ الْوَقْتِ.
+
+Tampilkan teks seperti halaman buku digital.
+
+Tambahkan:
+- Ilustrasi aktivitas Umar.
+- Audio pembacaan.
+- Penanda paragraf.
+- Fitur sorot kosakata.
+- Kamus mini yang dapat dibuka.
+
+LATIHAN QIRA'AH:
+
+Instruksi:
+
+اِقْرَأِ النَّصَّ بِعِنَايَةٍ، ثُمَّ أَجِبْ عَنِ الْأَسْئِلَةِ!
+
+Buat 10 pertanyaan pilihan ganda berdasarkan teks.
+
+Pertanyaan harus mencakup:
+- Informasi eksplisit.
+- Informasi rinci.
+- Urutan aktivitas.
+- Sebab-akibat.
+- Makna kosakata dalam konteks.
+- Sikap tokoh.
+- Kesimpulan paragraf.
+- Pesan utama bacaan.
+
+Minimal tiga soal harus menguji kemampuan menyimpulkan atau memahami informasi tersirat.
+
+4. MAHARAH KITABAH
+
+Buat latihan menulis paling kompleks dalam website ini.
+
+LATIHAN 1: MENYUSUN KALIMAT
+
+Berikan kata-kata acak untuk disusun menjadi kalimat yang lebih panjang.
+
+LATIHAN 2: MENGEMBANGKAN PARAGRAF
+
+Berikan kalimat utama tentang kegiatan sehari-hari.
+
+Minta siswa mengembangkan menjadi paragraf minimal lima kalimat.
+
+LATIHAN 3: MENULIS CERITA
+
+Instruksi:
+
+اُكْتُبْ قِصَّةً عَنْ يَوْمِيَّاتِكَ وَكَيْفِيَّةِ تَنْظِيمِ وَقْتِكَ!
+
+Tulislah cerita tentang aktivitas sehari-hari dan cara mengatur waktu sebanyak 8–10 kalimat.
+
+Ketentuan:
+- Menggunakan minimal delapan mufradat dari materi.
+- Menggunakan minimal tiga kata penghubung.
+- Memuat urutan kegiatan yang logis.
+- Menjelaskan alasan melakukan suatu aktivitas.
+- Menggunakan struktur kalimat yang benar.
+
+LATIHAN 4: MENULIS PENDAPAT
+
+Instruksi:
+
+مَا رَأْيُكَ فِي أَهَمِّيَّةِ تَنْظِيمِ الْوَقْتِ؟
+
+Tulislah pendapat sederhana dalam bahasa Arab tentang pentingnya mengatur waktu sebanyak 4–5 kalimat.
+
+Sediakan editor Arab dengan:
+- Dukungan RTL.
+- Penghitung kata.
+- Fitur simpan.
+- Fitur periksa tulisan.
+- Panduan mufradat.
+- Feedback AI.
+- Penilaian berdasarkan rubrik.
+
+Evaluasi kitabah berdasarkan:
+1. Ketepatan kosakata.
+2. Struktur kalimat.
+3. Koherensi paragraf.
+4. Penggunaan kata penghubung.
+5. Kelengkapan isi.
+6. Pengembangan ide.
+7. Ketepatan tema.
+
+Jangan menggunakan penilaian yang hanya mencocokkan jawaban dengan satu contoh teks.
+
+MAHFUZHAT DARS 3:
+
+خَيْرُ الْعِلْمِ مَا نَفَعَ
+
+Sebaik-baik ilmu adalah ilmu yang bermanfaat.
+
+==================================================
+H. SISTEM EVALUASI DAN PENGUMPULAN KOIN
+==================================================
+
+Buat sistem gamifikasi yang menarik dan profesional.
+
+KETENTUAN KOIN:
+
+- Jawaban benar: +10 koin.
+- Menyelesaikan satu maharah: bonus +10 koin.
+- Menyelesaikan satu dars: bonus +30 koin.
+- Jawaban salah: tidak memperoleh koin.
+- Koin yang telah diperoleh tidak boleh dikurangi.
+
+Untuk soal pilihan ganda:
+- Sistem memeriksa jawaban otomatis.
+- Koin diberikan jika benar.
+
+Untuk soal menulis dan berbicara:
+- Gunakan rubrik penilaian.
+- Berikan feedback berdasarkan kualitas jawaban.
+- Berikan koin berdasarkan capaian yang diperoleh, bukan hanya karena tombol diperiksa ditekan.
+
+ANIMASI EVALUASI:
+
+Saat benar:
+- Animasi koin berjatuhan.
+- Efek bintang.
+- Tulisan أَحْسَنْتَ! إِجَابَةٌ صَحِيحَةٌ.
+- Suara kemenangan.
+
+Saat salah:
+- Tampilkan حَاوِلْ مَرَّةً أُخْرَى.
+- Berikan kesempatan memperbaiki jawaban.
+- Berikan penjelasan jawaban.
+
+HALAMAN TOTAL KOIN:
+
+مَجْمُوعُ النُّقُودِ
+
+Tampilkan:
+- Total koin.
+- Persentase jawaban benar.
+- Jumlah latihan selesai.
+- Progres masing-masing dars.
+- Progres setiap maharah.
+- Badge penghargaan.
+
+BADGE:
+- نَجْمُ التَّعَلُّمِ
+- بَطَلُ اللُّغَةِ الْعَرَبِيَّةِ
+- مُجْتَهِدٌ
+- مُمْتَازٌ
+- الْبَطَلُ الْمُتَمَيِّزُ
+
+Gunakan localStorage agar progres dan koin tersimpan setelah halaman direfresh.
+
+Cegah penambahan koin berulang untuk soal yang sama.
+
+==================================================
+I. FITUR TAMBAHAN WEBSITE
+==================================================
+
+1. AUDIO PLAYER
+
+- Play.
+- Pause.
+- Replay.
+- Volume.
+- Indikator audio.
+- Audio Arab yang jelas.
+
+2. AI SPEAKING PARTNER
+
+- Input suara.
+- Input teks.
+- Speech recognition.
+- Transkripsi jawaban.
+- Respons AI.
+- Koreksi struktur kalimat.
+- Feedback pengucapan jika tersedia.
+- Riwayat percakapan.
+
+3. AI WRITING EVALUATOR
+
+- Evaluasi paragraf.
+- Evaluasi cerita.
+- Evaluasi pendapat.
+- Koreksi kosakata.
+- Koreksi struktur kalimat.
+- Saran pengembangan ide.
+
+4. ARABIC MINI DICTIONARY
+
+Sediakan kamus mini yang dapat dibuka ketika siswa membutuhkan arti mufradat.
+
+5. PROGRESS TRACKER
+
+Tampilkan kemajuan setiap maharah dan dars.
+
+6. PETUNJUK
+
+Berikan petunjuk dalam bahasa Indonesia yang singkat dan jelas.
+
+7. NAVIGASI
+
+- Beranda.
+- Dars 1.
+- Dars 2.
+- Dars 3.
+- Total koin.
+- Progress.
+- Kamus mini.
+
+8. FITUR ULANGI
+
+Siswa dapat mengulang latihan tanpa menghapus koin yang sudah diperoleh.
+
+9. PENYIMPANAN
+
+Simpan data progres menggunakan localStorage.
+
+10. RESPONSIVE
+
+Pastikan tampilan nyaman di HP, tablet, dan laptop.
+
+==================================================
+J. HALAMAN PENUTUP
+==================================================
+
+Setelah menyelesaikan tiga dars, tampilkan halaman apresiasi.
+
+Tulisan:
+
+مُبَارَكٌ!
+
+لَقَدْ أَكْمَلْتَ جَمِيعَ الدُّرُوسِ!
+
+أَنْتَ بَطَلٌ فِي تَعَلُّمِ اللُّغَةِ الْعَرَبِيَّةِ!
+
+Tambahkan:
+- Animasi confetti.
+- Piala.
+- Medali.
+- Buku terbuka.
+- Bintang.
+- Karakter siswa yang tersenyum.
+- Total koin.
+- Persentase penyelesaian.
+
+Tombol:
+
+إِعَادَةُ التَّعَلُّمِ
+
+==================================================
+K. FOOTER / IDENTITAS AUTHOR
+==================================================
+
+Di bagian paling bawah website, tampilkan footer yang elegan dan profesional.
+
+Tampilkan:
+
+الْكِتَابُ الإِضَافِيُّ الإِلِكْتُرُونِيُّ
+
+AUTHOR:
+
+Prof. Dr. Muflihah, S. Ag., MA
+
+Dr. H. Taufik, S. Ag., M. Pd. I.
+
+Anisah Firdausi Nuzula
+
+Gunakan background gradasi deep navy dan teal dengan ornamen buku, pensil, serta bintang.
+
+==================================================
+L. KETENTUAN TEKNIS
+==================================================
+
+Gunakan:
+- React.
+- Tailwind CSS atau CSS modern.
+- Komponen reusable.
+- Framer Motion atau CSS animation.
+- Gemini API untuk AI conversation dan evaluasi tulisan.
+- Web Speech API untuk speech recognition dan text-to-speech.
+- localStorage untuk penyimpanan progres.
+- Responsive layout.
+
+KEAMANAN:
+- Jangan meletakkan API key langsung di frontend.
+- Gunakan server-side API integration.
+- Tangani error jaringan.
+- Tangani izin mikrofon.
+- Sediakan alternatif input teks jika mikrofon tidak tersedia.
+
+KETENTUAN PENTING:
+
+1. Semua tombol harus berfungsi.
+2. Semua halaman harus terhubung.
+3. Semua latihan harus memiliki evaluasi.
+4. Semua soal pilihan ganda harus memiliki kunci jawaban.
+5. Semua audio harus dapat diputar.
+6. Semua tulisan Arab harus menggunakan RTL dan harakat yang benar.
+7. Jangan menghilangkan materi dari tiga dars.
+8. Jangan membuat soal terlalu mudah seperti fase LOW dan MIDDLE.
+9. Jangan menggunakan teks yang sama persis dari fase LOW dan MIDDLE.
+10. Materi harus sesuai kemampuan kelas VII MTs, bukan tingkat SMA atau perguruan tinggi.
+11. Gunakan bahasa Indonesia untuk petunjuk.
+12. Gunakan bahasa Arab untuk materi, dialog, pertanyaan, dan jawaban.
+13. Pastikan AI benar-benar memproses jawaban siswa.
+14. Pastikan progres dan koin tidak terduplikasi.
+15. Buat desain yang konsisten, elegan, dan profesional.
+
+HASIL AKHIR:
+
+Buat website E-LKPD bahasa Arab fase HIGH yang lengkap dan berfungsi secara nyata dari halaman cover sampai footer.
+
+Website harus mempunyai:
+- Cover animasi yang menarik.
+- Dashboard interaktif.
+- Tiga dars lengkap.
+- Materi singkat.
+- Empat maharah.
+- Audio cerita bahasa Arab.
+- AI speaking partner.
+- Teks hiwar dan bacaan panjang.
+- Latihan pemahaman tingkat tinggi.
+- Latihan menulis paragraf dan cerita.
+- AI writing evaluator.
+- Sistem koin.
+- Evaluasi otomatis.
+- Progress tracker.
+- Kamus mini.
+- Halaman penghargaan.
+
+Buat website secara lengkap, bukan hanya desain awal atau mockup.
+
+Prioritaskan kualitas materi, kedalaman latihan, ketepatan bahasa Arab, pengalaman pengguna, dan fungsi setiap fitur.
